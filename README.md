@@ -1,5 +1,5 @@
 ![TipCalculator](https://user-images.githubusercontent.com/93391317/152660405-2c330a6b-4e74-4b62-9bb8-39c99935cb53.png)
-# Tip Generator
+# Tip Calculator
 Tip Generator basic Project: HTML / CSS / JAVASCRIPT
  
  > Status: Concluded ✔️
